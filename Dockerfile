@@ -15,3 +15,4 @@ EXPOSE 8083
 
 # Command to run the binary when the container starts
 CMD ["cargo", "run", "--release"]
+
